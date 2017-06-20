@@ -8,11 +8,11 @@
 **GenNGive** is application made in React Native.
 
 React Native 0.40 -
-1. JSX.
-2. Gulp.
-3. Redux.
+1. JSX
+2. Gulp
+3. Redux
 4. HTML 5
-5. CSS, 
+5. CSS 
 6. JavaScript
 7. Swift 3
 
