@@ -8,7 +8,6 @@
 **GenNGive** is application made in React Native.
 
 React Native 0.40 -
-Xcode 8.2.1 
 1. JSX.
 2. Gulp.
 3. Redux.
